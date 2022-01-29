@@ -1,6 +1,6 @@
 # Javascript Animated Template
 [Animate On Scroll Library](https://michalsnik.github.io/aos/)
-![alt text][logo]
+![alt text][image]
 ## Assets
 ```javascript
 <!-- AOS CSS -->
@@ -16,4 +16,4 @@
     });
   </script>
 ```
-[image]: AOS_Capture.png "AOS Capture"
+[image]: https://github.com/yourwpmadesimple/javascript-animated-template/blob/master/AOS_Capture.png "AOS Capture"
