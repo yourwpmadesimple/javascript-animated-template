@@ -16,4 +16,4 @@
     });
   </script>
 ```
-[image]: https://github.com/yourwpmadesimple/javascript-animated-template/blob/master/AOS_Capture.png "AOS Capture"
+[image]: AOS_Capture.png "AOS Capture"
